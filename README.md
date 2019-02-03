@@ -1,4 +1,4 @@
 # AirShipModMaker
-AirShip Mod Maker is a tool that you can creat your Own Mod very easy.
+AirShip Mod Maker is a tool that you can create your own modification very easy.
 
-Note:It Useing LinePutScript https://github.com/LorisYounger/LinePutScript To Save UserData
+Note:It's using LinePutScript https://github.com/LorisYounger/LinePutScript To Save UserData
